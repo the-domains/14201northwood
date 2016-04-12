@@ -4,11 +4,11 @@ hasPage: false
 inNav: false
 isBasedOnUrl: null
 inLanguage: null
-starred: true
+starred: false
 keywords: []
-description: Contact the seller for more information or to schedule a tour of this home. Must bring pre-approval letter before touring the home.
-datePublished: '2016-04-12T19:15:02.740Z'
-dateModified: '2016-04-12T18:22:00.500Z'
+description: "Contact the seller for more information or to schedule a tour of this home. Must bring pre-approval letter before touring the home. \_"
+datePublished: '2016-04-12T19:23:58.828Z'
+dateModified: '2016-04-12T19:23:53.269Z'
 title: For Sale By Owner
 author: []
 sourcePath: _posts/2016-04-12-for-sale-by-owner.md
@@ -24,7 +24,7 @@ _type: Blurb
 ---
 # For Sale By Owner
 
-## 2369sf $284,280 3 bed, 2.5 bath, 1 office/bed \*Energy Efficient 
+## 2369sf $284,280 3 bed, 2.5 bath, 1 office/bed \*Energy Efficient \*Generator
 
 Contact the seller for more information or to schedule a tour of this home. Must bring pre-approval letter before touring the home.  
 
