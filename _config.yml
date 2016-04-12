@@ -1,6 +1,6 @@
 name: 14201Northwood
 favicon: null
-layout_spectrum: 0.67495
+layout_spectrum: 0.47018
 typography_spectrum: 0.58151
 title: 14201 Northwood dr.
 cta:
@@ -23,7 +23,7 @@ color:
     - '#8a99ac'
     - '#131c01'
   brandStrength: 0.4375
-  lightness: 0.4978841708507389
-  saturation: 0.86948601459153
+  lightness: 0.75
+  saturation: 0.6875
   rhythmicContrast: 0.7949863448739052
 purpose: []
