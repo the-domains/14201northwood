@@ -7,8 +7,8 @@ inLanguage: null
 starred: false
 keywords: []
 description: "Contact the seller for more information or to schedule a tour of this home. Must bring pre-approval letter before touring the home. \_"
-datePublished: '2016-04-12T19:23:58.828Z'
-dateModified: '2016-04-12T19:23:53.269Z'
+datePublished: '2016-04-12T19:35:46.926Z'
+dateModified: '2016-04-12T19:24:06.692Z'
 title: For Sale By Owner
 author: []
 sourcePath: _posts/2016-04-12-for-sale-by-owner.md
