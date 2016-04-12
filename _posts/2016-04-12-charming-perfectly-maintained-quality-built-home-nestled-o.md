@@ -3,21 +3,21 @@ inFeed: true
 hasPage: false
 inNav: false
 inLanguage: null
-starred: false
+starred: true
 keywords: []
 description: 'Charming, perfectly-maintained, quality built home nestled on 1 acre in an active, family-friendly neighborhood in Piedmont, Oklahoma!'
-datePublished: '2016-04-12T00:11:19.317Z'
-dateModified: '2016-04-12T00:11:01.077Z'
+datePublished: '2016-04-12T00:11:57.798Z'
+dateModified: '2016-04-12T00:11:46.928Z'
 title: ''
 author: []
+sourcePath: _posts/2016-04-12-charming-perfectly-maintained-quality-built-home-nestled-o.md
+published: true
 authors: []
 publisher:
   name: null
   domain: null
   url: null
   favicon: null
-sourcePath: _posts/2016-04-12-charming-perfectly-maintained-quality-built-home-nestled-o.md
-published: true
 _type: Blurb
 
 ---
