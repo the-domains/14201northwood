@@ -1,13 +1,14 @@
 ---
 inFeed: true
-hasPage: true
+hasPage: false
 inNav: false
+isBasedOnUrl: null
 inLanguage: null
-starred: false
+starred: true
 keywords: []
-description: "Contact the seller for more information or to schedule a tour of this home. You can also\_contact them directly at 405-204-2475.\_"
-datePublished: '2016-04-12T15:39:54.998Z'
-dateModified: '2016-04-12T15:39:27.901Z'
+description: Contact the seller for more information or to schedule a tour of this home. Must bring pre-approval letter before touring the home.
+datePublished: '2016-04-12T16:57:28.406Z'
+dateModified: '2016-04-12T16:57:10.123Z'
 title: FOR SALE BY OWNER
 author: []
 authors: []
@@ -18,8 +19,7 @@ publisher:
   favicon: null
 sourcePath: _posts/2016-04-12-for-sale-by-owner.md
 published: true
-url: for-sale-by-owner/index.html
-_type: Article
+_type: Blurb
 
 ---
 # FOR SALE BY OWNER
