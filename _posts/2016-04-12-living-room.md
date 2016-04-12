@@ -6,9 +6,9 @@ inLanguage: null
 starred: false
 keywords: []
 description: "The distressed beams give this living room great warmth and character. The large remote controlled gas fireplace can heat up the entire house if needed, and it's completely sealed with glass. All the TV components are wired to a separate media closet for a nice clean look. Pre-wired for surround speakers. Great view to the backyard!"
-datePublished: '2016-04-12T17:24:56.077Z'
-dateModified: '2016-04-12T17:23:46.348Z'
-title: Living Room
+datePublished: '2016-04-12T17:36:17.417Z'
+dateModified: '2016-04-12T17:36:11.840Z'
+title: 'Living Room & Office'
 author: []
 authors: []
 publisher:
@@ -22,7 +22,7 @@ url: living-room/index.html
 _type: WebPage
 
 ---
-# Living Room
+# Living Room & Office
 
 The distressed beams give this living room great warmth and character. The large remote controlled gas fireplace can heat up the entire house if needed, and it's completely sealed with glass. All the TV components are wired to a separate media closet for a nice clean look. Pre-wired for surround speakers. Great view to the backyard!
 ![](https://s3-us-west-2.amazonaws.com/the-grid-img/p/3d38232e75bc9c3ec63cde1d1cd87037b008b691.jpg)
