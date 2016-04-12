@@ -5,9 +5,9 @@ inNav: false
 inLanguage: null
 starred: false
 keywords: []
-description: 'Master suite has a spacious bedroom with 3 windows looking out to the backyard garden. Security System keypad by bed. Master bath features a huge walk through closet (with built in twin chest of drawers and plentiful shelving) that takes you into the laundry room. Twin vanities and large cupboard stores an abundant amount of necessities. Large slate walk in shower with dimmable lighting, plus relax after a stressful day in a ultra comfortable clawfoot tub. Master bathroom features a bonus dedicated water heater for instant hot water.'
-datePublished: '2016-04-12T04:12:24.480Z'
-dateModified: '2016-04-12T04:10:40.301Z'
+description: 'Master suite has a spacious bedroom with 3 windows looking out to the backyard garden. Security System keypad by bed. Master bath features a huge walk through closet (with built in twin chest of drawers, plentiful shelving, and built in ironing board with timer/light) that takes you into the laundry room. Twin vanities and large cupboard stores an abundant amount of necessities. Large slate walk in shower with dimmable lighting, plus relax after a stressful day in a ultra comfortable clawfoot tub. Master bathroom features a bonus dedicated water heater for instant hot water.'
+datePublished: '2016-04-12T04:19:04.572Z'
+dateModified: '2016-04-12T04:12:29.854Z'
 title: Master Suite
 author: []
 authors: []
