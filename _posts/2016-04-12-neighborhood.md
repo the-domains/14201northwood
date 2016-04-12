@@ -4,11 +4,11 @@ hasPage: false
 inNav: false
 isBasedOnUrl: ''
 inLanguage: null
-starred: false
+starred: true
 keywords: []
 description: "Northwood Lake Estates is located in Piedmont, Oklahoma in east Canadian County.\_Northwood Lake is a community where fishing, skiing, kids running barefoot, and riding bikes brings back memories of our childhood and where you’ll find some of the friendliest people around. It’s a community where you create plenty of memories for you and your family.\_"
-datePublished: '2016-04-12T03:51:18.364Z'
-dateModified: '2016-04-12T03:35:00.069Z'
+datePublished: '2016-04-12T17:07:50.225Z'
+dateModified: '2016-04-12T17:07:49.441Z'
 title: Neighborhood
 author: []
 sourcePath: _posts/2016-04-12-neighborhood.md
