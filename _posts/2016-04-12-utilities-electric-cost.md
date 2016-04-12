@@ -5,19 +5,19 @@ inNav: false
 inLanguage: null
 starred: false
 keywords: []
-description: "This house is extremely energy efficient.\_"
-datePublished: '2016-04-12T18:33:55.906Z'
-dateModified: '2016-04-12T18:33:21.270Z'
+description: "This house is extremely energy efficient and comfortable. 2 powered attic fans with thermostats and humidistats.\_"
+datePublished: '2016-04-12T19:20:40.541Z'
+dateModified: '2016-04-12T18:33:59.092Z'
 title: Utilities/ Electric Cost
 author: []
+sourcePath: _posts/2016-04-12-utilities-electric-cost.md
+published: true
 authors: []
 publisher:
   name: null
   domain: null
   url: null
   favicon: null
-sourcePath: _posts/2016-04-12-utilities-electric-cost.md
-published: true
 url: utilities-electric-cost/index.html
 _type: Article
 
