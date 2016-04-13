@@ -5,9 +5,9 @@ inNav: true
 inLanguage: null
 starred: false
 keywords: []
-description: 'Master suite has a spacious bedroom with 3 windows looking out to the backyard garden. Security System keypad by bed. Master bath features a huge walk through closet (with built in twin chest of drawers, plentiful shelving, and built in ironing board with timer/light) that takes you into the laundry room. Twin vanities and large cupboard stores an abundant amount of necessities. Large slate walk in shower with dimmable lighting, plus relax after a stressful day in a ultra comfortable clawfoot tub. Master bathroom features a bonus dedicated water heater for instant hot water.'
-datePublished: '2016-04-12T19:18:33.635Z'
-dateModified: '2016-04-12T19:17:32.731Z'
+description: 'Master suite has a spacious bedroom (15x16) with 3 (3x5) windows looking out to the backyard garden. Security System keypad by bed. Master bath features a huge walk through closet (with built in twin chest of drawers, plentiful shelving, and built in ironing board with timer/light) that takes you into the laundry room. Twin vanities and large cupboard stores an abundant amount of necessities. Large slate walk in shower with dimmable lighting, plus relax after a stressful day in a ultra comfortable clawfoot tub. Master bathroom features a bonus dedicated water heater for instant hot water.'
+datePublished: '2016-04-13T02:39:43.854Z'
+dateModified: '2016-04-13T02:39:01.637Z'
 title: Master Suite/Laundry
 author: []
 sourcePath: _posts/2016-04-12-master-suite.md
@@ -24,7 +24,7 @@ _type: WebPage
 ---
 # Master Suite/Laundry
 
-Master suite has a spacious bedroom with 3 windows looking out to the backyard garden. Security System keypad by bed. Master bath features a huge walk through closet (with built in twin chest of drawers, plentiful shelving, and built in ironing board with timer/light) that takes you into the laundry room. Twin vanities and large cupboard stores an abundant amount of necessities. Large slate walk in shower with dimmable lighting, plus relax after a stressful day in a ultra comfortable clawfoot tub. Master bathroom features a bonus dedicated water heater for instant hot water.
+Master suite has a spacious bedroom (15x16) with 3 (3x5) windows looking out to the backyard garden. Security System keypad by bed. Master bath features a huge walk through closet (with built in twin chest of drawers, plentiful shelving, and built in ironing board with timer/light) that takes you into the laundry room. Twin vanities and large cupboard stores an abundant amount of necessities. Large slate walk in shower with dimmable lighting, plus relax after a stressful day in a ultra comfortable clawfoot tub. Master bathroom features a bonus dedicated water heater for instant hot water.
 ![](https://s3-us-west-2.amazonaws.com/the-grid-img/p/e60df9fdea9f725921f051ef167041b41c593276.jpg)
 ![](https://s3-us-west-2.amazonaws.com/the-grid-img/p/587c4a5e93812e613667d307db6fa6b87a5ec963.jpg)
 ![](https://s3-us-west-2.amazonaws.com/the-grid-img/p/7115a6a89ea55fc808bc882424e97b718fe7caec.jpg)
@@ -33,9 +33,11 @@ Master suite has a spacious bedroom with 3 windows looking out to the backyard g
 ![](https://s3-us-west-2.amazonaws.com/the-grid-img/p/6a99557db20562442d038ef7daea1278ae1f68bd.jpg)
 ![](https://s3-us-west-2.amazonaws.com/the-grid-img/p/9d88d7d685ad6a5c3ac04d0e5820e4f2e147e8c4.jpg)
 ![](https://the-grid-user-content.s3-us-west-2.amazonaws.com/d48de7ef-e5ab-443c-8324-a06a9f417fdb.jpg)
+![](https://the-grid-user-content.s3-us-west-2.amazonaws.com/17d4aeec-ae73-447f-a310-963c36e648d0.jpg)
+![](https://the-grid-user-content.s3-us-west-2.amazonaws.com/0fb64c41-edae-4d14-aac3-0e159ae39030.jpg)
+![](https://the-grid-user-content.s3-us-west-2.amazonaws.com/daee1008-b5ba-4c15-9e2f-ddc00cad2765.jpg)
 
-# 
-
+  
 # Laundry/Mudroom 
 
 One of the great features of the laundry is the walk through design into the master closet. This laundry is packed full of cabinet space and has a large counter with full utility sink. The mud bench is a great place to kick off your shoes and hang your jackets.
